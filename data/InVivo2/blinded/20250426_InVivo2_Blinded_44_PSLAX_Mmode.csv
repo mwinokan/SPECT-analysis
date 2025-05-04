@@ -1,0 +1,69 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","26/04/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","44"
+"Acquired By","Jenasee"
+"Series Date","15/11/2024"
+"Series Time","16:50:10"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","PSLAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2","Instance 3","Instance 4","Instance 5","Instance 6"
+"IVS;d","M-Mode","Depth","mm","2.147090","0.049380","2.069014","2.186128","2.186128","2.186128","2.108052","2.147090",
+"IVS;s","M-Mode","Depth","mm","3.552458","0.156152","3.591496","3.396306","3.435344","3.435344","3.669572","3.786686",
+"LVID;d","M-Mode","Depth","mm","6.460789","0.163308","6.519346","6.324156","6.246080","6.636460","6.636460","6.402232",
+"LVID;s","M-Mode","Depth","mm","3.181597","0.217705","2.966888","3.357268","3.279192","3.279192","3.357268","2.849774",
+"LVPW;d","M-Mode","Depth","mm","1.867318","0.199692","1.912862","2.186128","1.912862","1.600558","1.717672","1.873824",
+"LVPW;s","M-Mode","Depth","mm","3.090508","0.119476","3.240154","3.044964","3.123040","3.084002","2.888812","3.162078",
+
+Calculation,,Units,
+"EF",,"%",81.041990,
+"FS",,"%",50.755287,
+"LV Mass",,"mg",926.382904,
+"LV Mass (Corrected)",,"mg",741.106323,
+"LV Vol;d",,"uL",213.050383,
+"LV Vol;s",,"uL",40.390113,
+
+
+

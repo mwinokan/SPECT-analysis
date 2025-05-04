@@ -1,0 +1,81 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","28/04/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","89"
+"Acquired By","Jenasee"
+"Series Date","01/11/2024"
+"Series Time","16:46:57"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","SAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2"
+"IVS;d","M-Mode","Depth","mm","1.973353","2.657851E-02","1.954560","1.992147",
+"LVID;d","M-Mode","Depth","mm","6.577844","5.315701E-02","6.615432","6.540257",
+"LVPW;d","M-Mode","Depth","mm","1.597477","0.026579","1.578683","1.616270",
+
+Calculation,,Units,
+"LV Mass",,"mg",800.973129,
+"LV Mass (Corrected)",,"mg",640.778503,
+"LV Vol;d",,"uL",221.909908,
+
+"Protocol Name","PSLAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2","Instance 3","Instance 4","Instance 5","Instance 6"
+"IVS;d","M-Mode","Depth","mm","1.841796","0.133776","2.029735","1.729033","1.841796","1.766621",,,
+"IVS;s","M-Mode","Depth","mm","2.900516","0.331469","2.856664","3.270128","3.345304","2.593550","2.593550","2.743901",
+"LVID;d","M-Mode","Depth","mm","6.559051","0.157988","6.389906","6.765783","6.577844","6.502669",,,
+"LVID;s","M-Mode","Depth","mm","3.577094","0.213181","3.758768","3.458067","3.232541","3.796356","3.683593","3.533242",
+"LVPW;d","M-Mode","Depth","mm","1.569286","4.729680E-02","1.578683","1.503507","1.616270","1.578683",,,
+"LVPW;s","M-Mode","Depth","mm","2.524639","9.334064E-02","2.443199","2.518375","2.668725","2.555962","2.555962","2.405612",
+
+Calculation,,Units,
+"EF",,"%",75.686921,
+"FS",,"%",45.463239,
+"LV Mass",,"mg",746.459819,
+"LV Mass (Corrected)",,"mg",597.167855,
+"LV Vol;d",,"uL",220.474849,
+"LV Vol;s",,"uL",53.604224,
+
+
+

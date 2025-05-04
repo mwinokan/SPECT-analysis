@@ -1,0 +1,76 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","02/05/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","122"
+"Acquired By","Jenasee"
+"Series Date","25/10/2024"
+"Series Time","21:46:35"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","PSLAX B-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Instance 1"
+"LV Trace","B-Mode","Heart Rate","BPM","428.647973",
+"LV Trace","B-Mode","Area","mm2","36.223650",
+"LV Trace","B-Mode","Area;s","mm2","37.948032",
+"LV Trace","B-Mode","Area;d","mm2","77.075285",
+"LV Trace","B-Mode","Volume","uL","100.686490",
+"LV Trace","B-Mode","Volume;s","uL","106.203438",
+"LV Trace","B-Mode","Volume;d","uL","363.927365",
+"LV Trace","B-Mode","Stroke Volume","uL","257.723927",
+"LV Trace","B-Mode","Ejection Fraction","%","70.817408",
+"LV Trace","B-Mode","Fractional Shortening","%","16.570177",
+"LV Trace","B-Mode","Cardiac Output","mL/min","110.472839",
+
+Calculation,,Units,
+"Area;d (LV Trace)",,"mm2",77.075285,
+"Area;s (LV Trace)",,"mm2",37.948032,
+"CO (LV Trace)",,"mL/min",110.472839,
+"EF (LV Trace)",,"%",70.817408,
+"FS (LV Trace)",,"%",16.570177,
+"SV (LV Trace)",,"uL",257.723927,
+"V;d (LV Trace)",,"uL",363.927365,
+"V;s (LV Trace)",,"uL",106.203438,
+
+
+

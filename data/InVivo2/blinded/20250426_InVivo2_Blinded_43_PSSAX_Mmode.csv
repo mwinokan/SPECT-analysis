@@ -1,0 +1,69 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","26/04/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","43"
+"Acquired By","Jenasee"
+"Series Date","05/03/2025"
+"Series Time","20:11:13"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","SAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2","Instance 3"
+"IVS;d","M-Mode","Depth","mm","1.924302","0.192430","1.924302","1.731872","2.116733",
+"IVS;s","M-Mode","Depth","mm","3.094920","0.121068","3.078884","2.982669","3.223206",
+"LVID;d","M-Mode","Depth","mm","7.713245","0.182132","7.841532","7.793424","7.504779",
+"LVID;s","M-Mode","Depth","mm","4.554182","5.554982E-02","4.618326","4.522110","4.522110",
+"LVPW;d","M-Mode","Depth","mm","1.379083","0.100144","1.347012","1.491334","1.298904",
+"LVPW;s","M-Mode","Depth","mm","2.389342","2.777491E-02","2.405378","2.405378","2.357270",
+
+Calculation,,Units,
+"EF",,"%",70.066035,
+"FS",,"%",40.956342,
+"LV Mass",,"mg",924.694981,
+"LV Mass (Corrected)",,"mg",739.755985,
+"LV Vol;d",,"uL",317.628081,
+"LV Vol;s",,"uL",95.078678,
+
+
+

@@ -1,0 +1,69 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","28/04/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","87"
+"Acquired By","Jenasee"
+"Series Date","21/03/2025"
+"Series Time","16:02:57"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","SAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2","Instance 3","Instance 4","Instance 5","Instance 6"
+"IVS;d","M-Mode","Depth","mm","1.502425","0.231002","1.442328","1.667691","1.893055","1.307109","1.352182","1.352182",
+"IVS;s","M-Mode","Depth","mm","2.201052","0.244254","2.569146","2.388855","1.983201","2.253637","1.983201","2.028273",
+"LVID;d","M-Mode","Depth","mm","7.820120","0.141818","7.977875","7.662366","7.662366","7.977875","7.842657","7.797584",
+"LVID;s","M-Mode","Depth","mm","5.296047","0.181973","5.048147","5.093220","5.498874","5.363656","5.408729","5.363656",
+"LVPW;d","M-Mode","Depth","mm","1.975688","0.159781","1.938128","2.028273","1.712764","1.983201","1.983201","2.208564",
+"LVPW;s","M-Mode","Depth","mm","2.802022","0.096319","2.749437","2.794510","2.749437","2.704364","2.839583","2.974801",
+
+Calculation,,Units,
+"EF",,"%",58.751941,
+"FS",,"%",32.276653,
+"LV Mass",,"mg",1015.077719,
+"LV Mass (Corrected)",,"mg",812.062175,
+"LV Vol;d",,"uL",327.553540,
+"LV Vol;s",,"uL",135.109479,
+
+
+

@@ -1,0 +1,69 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","26/04/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_WholeHeart_20Gy_Blinded"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","27/08/2024"
+"Study Time","17:48:21"
+"Study Notes",""
+
+
+"Series Name","45"
+"Acquired By","Jenasee"
+"Series Date","16/11/2024"
+"Series Time","18:51:26"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","PSLAX M-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Avg","STD","Instance 1","Instance 2","Instance 3","Instance 4","Instance 5","Instance 6"
+"IVS;d","M-Mode","Depth","mm","1.628304","6.414143E-02","1.649451","1.564863","1.607157","1.649451","1.564863","1.734038",
+"IVS;s","M-Mode","Depth","mm","2.699742","0.140059","2.579910","2.622203","2.622203","2.664497","2.960552","2.749084",
+"LVID;d","M-Mode","Depth","mm","7.246304","0.069065","7.316794","7.274500","7.147619","7.316794","7.189913","7.232206",
+"LVID;s","M-Mode","Depth","mm","4.151822","9.038042E-02","4.187067","4.102480","4.313948","4.102480","4.060186","4.144773",
+"LVPW;d","M-Mode","Depth","mm","1.853870","0.062255","1.903212","1.860919","1.903212","1.776331","1.903212","1.776331",
+"LVPW;s","M-Mode","Depth","mm","2.925308","0.111632","2.918259","3.129727","2.833672","2.960552","2.833672","2.875965",
+
+Calculation,,Units,
+"EF",,"%",72.307295,
+"FS",,"%",42.704281,
+"LV Mass",,"mg",899.635589,
+"LV Mass (Corrected)",,"mg",719.708471,
+"LV Vol;d",,"uL",276.112930,
+"LV Vol;s",,"uL",76.463140,
+
+
+
