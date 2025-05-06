@@ -1,0 +1,10 @@
+sep=,
+"Name","Color","Image name","Series","Deviation","Mean","Max","Min","Sum","TLG","No. Pixels/Voxels","Hard Area/Volume "
+"Box","","NM( %ID/g )","DCA_adjustHU_2_4h_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC_Registered","0.5335","0.4326","3.11","0.02091","2.33","N/A","37760","5.38"
+"Heart","","NM( %ID/g )","DCA_adjustHU_2_4h_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC_Registered","0.4439","1.71","3.11","0.6019","0.9624","N/A","3946","0.5622"
+"Heart","","CT( HU )","BR_CTRecon,30m CT Scan (2),FBP,V250,Sl250,F:Cos,C100,M30,S0","110.65","188.08","514","-432","6.76927e+06","N/A","35992","0.5653"
+"Box","","CT( HU )","BR_CTRecon,30m CT Scan (2),FBP,V250,Sl250,F:Cos,C100,M30,S0","341.09","149.37","3673","-1000","5.19803e+07","N/A","347998","5.47"
+"Heart","","NM( %ID/g )","DCA_adjustHU_2_30m_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC","0.3732","1.75","3.08","1.2","0.9798","N/A","4283","0.5609"
+"Box","","NM( %ID/g )","DCA_adjustHU_2_30m_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC","0.5118","0.4635","3.08","0.0499","2.47","N/A","40755","5.34"
+"Box","","CT( HU )","BR_CTRecon,4h CT Scan,FBP,V250,Sl250,F:Cos,C100,M30,S0_Registered","329.58","149.39","3365.68","-974.66","4.74944e+07","N/A","317915","5.43"
+"Heart","","CT( HU )","BR_CTRecon,4h CT Scan,FBP,V250,Sl250,F:Cos,C100,M30,S0_Registered","94.45","188.07","467.26","-306.53","6.03937e+06","N/A","32112","0.5488"
