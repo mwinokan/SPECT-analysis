@@ -1,0 +1,6 @@
+sep=,
+"Name","Color","Image name","Series","Deviation","Mean","Max","Min","Sum","No. Pixels/Voxels","Hard Area/Volume ","SUV Peak by 1cm3"
+"Heart_R68_30m","","NM( %ID/g )","30m_adjustHU_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC","0.5169","0.5062","2.57","0.04358","2.12","31956","4.18","N/A"
+"Heart_R68_4h","","CT( HU )","CTRecon,4h CT Scan (2),FBP,V250,Sl250,F:Cos,C100,M30,S0","307.61","114.06","3806","-995","3.03972e+07","266511","4.19","N/A"
+"Heart_R68_4h","","NM( %ID/g )","4h_adjustHU_TT3Dnd5pMM Reg:Me,Res128,It48,S3,Q:Me+AC","0.513","0.4394","2.84","0.01654","1.84","31959","4.19","N/A"
+"Heart_R68_30m","","CT( HU )","CTRecon,30m CT Scan,FBP,V250,Sl250,F:Cos,C100,M30,S0","316.85","95.29","3527","-946","2.53442e+07","265963","4.18","N/A"

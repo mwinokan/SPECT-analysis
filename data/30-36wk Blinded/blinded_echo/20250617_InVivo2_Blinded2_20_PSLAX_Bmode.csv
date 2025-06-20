@@ -1,0 +1,65 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","17/06/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_20Gy_30wk"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","01/05/2025"
+"Study Time","15:33:47"
+"Study Notes",""
+
+
+"Series Name","20"
+"Acquired By","Jenasee"
+"Series Date","10/06/2025"
+"Series Time","19:35:45"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_GenericPackage.sxml"
+"Measurement Version","0"
+"Measurement Description","Generic Package"
+
+,,,
+"Measurement","Mode","Parameter","Units","Value"
+"AutoLV 28","B-Mode","Heart Rate","BPM","353.356890",
+"AutoLV 28","B-Mode","Area","mm2","59.342745",
+"AutoLV 28","B-Mode","Area;s","mm2","28.395993",
+"AutoLV 28","B-Mode","Area;d","mm2","65.563037",
+"AutoLV 28","B-Mode","Volume","uL","247.811322",
+"AutoLV 28","B-Mode","Volume;s","uL","65.746148",
+"AutoLV 28","B-Mode","Volume;d","uL","290.483823",
+"AutoLV 28","B-Mode","Stroke Volume","uL","224.737676",
+"AutoLV 28","B-Mode","Ejection Fraction","%","77.366675",
+"AutoLV 28","B-Mode","Fractional Shortening","%","14.964965",
+"AutoLV 28","B-Mode","Cardiac Output","mL/min","79.412606",
+"AutoLV 28","B-Mode","Cycles","","3.000000",
+
+

@@ -1,0 +1,76 @@
+"FUJIFILM VisualSonics Measurement Export"
+"Institution",""
+"Report Date","17/06/2025"
+
+"Version Information"
+"Company Name","Model","SW Version","SW Build","Report Version"
+"FUJIFILM VisualSonics, Inc.","Vevo LAB","5.9.0","3539","8"
+
+"Study","1"
+"Study Name","JM_InVivo2_20Gy_30wk"
+"Owner User Name","Administrator"
+"Granting Institution",""
+"Study Date","01/05/2025"
+"Study Time","15:33:47"
+"Study Notes",""
+
+
+"Series Name","14"
+"Acquired By","Jenasee"
+"Series Date","02/05/2025"
+"Series Time","17:31:29"
+"Animal ID",""
+"Sex",""
+"Series Notes",""
+"Application",""
+"Measurement Package",""
+"Color",""
+"Strain",""
+"Source",""
+"Weight",""
+"Type",""
+"Date of Birth",""
+"Temperature",""
+"Heart Rate",""
+"Anesthetic Type",""
+"Anesthetic On",""
+"Anesthetic Off",""
+"Protocol ID",""
+"Protocol Name",""
+"Injectable",""
+"Injection Site",""
+"Injection Amount",""
+
+
+
+"Measurement File","VSI_CardiacPackage.sxml"
+"Measurement Version","5"
+"Measurement Description","Cardiac Package"
+
+"Protocol Name","PSLAX B-Mode"
+,,,
+"Measurement","Mode","Parameter","Units","Instance 1"
+"LV Trace","B-Mode","Heart Rate","BPM","362.921518",
+"LV Trace","B-Mode","Area","mm2","74.044120",
+"LV Trace","B-Mode","Area;s","mm2","32.745328",
+"LV Trace","B-Mode","Area;d","mm2","75.924825",
+"LV Trace","B-Mode","Volume","uL","351.872334",
+"LV Trace","B-Mode","Volume;s","uL","91.734263",
+"LV Trace","B-Mode","Volume;d","uL","362.350695",
+"LV Trace","B-Mode","Stroke Volume","uL","270.616431",
+"LV Trace","B-Mode","Ejection Fraction","%","74.683569",
+"LV Trace","B-Mode","Fractional Shortening","%","20.981835",
+"LV Trace","B-Mode","Cardiac Output","mL/min","98.212526",
+
+Calculation,,Units,
+"Area;d (LV Trace)",,"mm2",75.924825,
+"Area;s (LV Trace)",,"mm2",32.745328,
+"CO (LV Trace)",,"mL/min",98.212526,
+"EF (LV Trace)",,"%",74.683569,
+"FS (LV Trace)",,"%",20.981835,
+"SV (LV Trace)",,"uL",270.616431,
+"V;d (LV Trace)",,"uL",362.350695,
+"V;s (LV Trace)",,"uL",91.734263,
+
+
+
